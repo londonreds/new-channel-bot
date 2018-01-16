@@ -1,3 +1,4 @@
-description: "Slack bot that posts what new channels get created"
-owner: "Akiva"
-status: "Maintenance"
+description: Slack bot that posts what new channels get created
+owner: Akiva
+status: Maintenance
+system: null
